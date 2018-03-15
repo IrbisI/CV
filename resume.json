@@ -1,141 +1,218 @@
 {
   "basics": {
     "name": "Marina Andreianova",
-    "label": "Programmer",
-    "picture": "",
+    "label": "Political Scientist / Master of Art in Baltic Sea Region Studies",
+    "picture": "https://scontent.fhel1-1.fna.fbcdn.net/v/t1.0-9/22539940_10214883793876139_2009861087109087636_n.jpg?oh=044d475a3d007932990bc9aebfe23a54&oe=5B3F6E97",
     "email": "m.andreianova@gmail.com",
-    "phone": "(912) 555-4321",
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "phone": " +358 442442394; +7 921 7122286",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Mannerheimintie 33B",
+      "postalCode": "00250",
+      "city": "Helsinki",
+      "countryCode": "FI",
+      "region": "Finland"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "neutralthoughts",
-        "url": ""
+        "network": "LinkedIn",
+        "username": "marinaandreianova",
+        "url": "https://www.linkedin.com/in/marinaandreianova"
       },
       {
-        "network": "SoundCloud",
-        "username": "dandymusicnl",
-        "url": "https://soundcloud.com/dandymusicnl"
+        "network": "GitHub",
+        "username": "IrbisI",
+        "url": "https://github.com/IrbisI"
       }
     ]
   },
   "work": [
     {
-      "company": "Pied Piper",
-      "position": "CEO/President",
-      "website": "http://piedpiper.com",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "company": "Baltic Region Healthy Cities Association, (Turku, Finland)",
+      "position": "Paid Trainee",
+      "website": "http://www.marebalticum.org/brehca/",
+      "startDate": "2016-04",
+      "endDate": "2016-06",
+      "summary": "The Baltic Region Healthy Cities Association based in Turku, Finland, aims at increasing awareness of the local governments to take health as a central part in the decision making process in the cities belonging to the WHO Healthy Cities Networks.The Association’s role is to promote this ideology and facilitate the governance processes in the European Healthy Cities.",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "Preparation and execution of international projects and applications",
+        "Organization and conducting negotiation",
+        "Search for appropriate donation funds and interested institutions to provide necessary financial resources for project implementation",
+        "Day-to-day communication with project beneficiaries (terms, dates,activities) and project implementing institutions (project plan, quality control, feedback, post-project analysis, follow up activities)"
+      ]
+    },
+    {
+      "company": "Immanuel Kant Baltic Federal University, (Kalinigrad, Russia)",
+      "position": "Scientific Researcher",
+      "website": "http://eng.kantiana.ru/",
+      "startDate": "2011-12",
+      "endDate": "2013-05",
+      "summary": "The strategic goal of the IKBFU is to increase and secure competitiveness in the national and global markets of university education and R&D through developing competences in new areas and activities in line with the breakthrough achievements in the field of biomedical, neuro-, nanotechnology as well as in social sciences and the humanities.\nI participated in several international scientific projects. In addition I was involved in educational methodical complex development, sociological surveys, interviewing people and general office work.",
+      "highlights": [
+        "Running field interviews for further analysis of collected data",
+        "Development and delivery of lectures to project actors",
+        "Document analysis (regional, federal and international mass media)",
+        "Active participation in study visits - developing collaboration and share of experiences"
+      ]
+    },
+    {
+      "company": "NGO Centre Youth for Freedom of Speech, (Kalinigrad, Russia)",
+      "position": "Project Manager",
+      "website": "http://www.yfs.ru",
+      "startDate": "2009-09",
+      "endDate": "2009-12",
+      "summary": "This position implied the realisation of a project developed by Charity Children's Fund 'Victoria' to support orphans. I worked as a project manager and contributed to project via team building and event development",
+      "highlights": [
+        "Preparatory workshop for potential volunteers: group activities, problem-solving tasks, case-studies, group and individual presentations, project roles and beneficiary-oriented behaviour",
+        "Development and delivery of lectures to project actors",
+        "Development of website for volunteers and dissemination of necessary information among them. Monitoring volunteers’ activities and taking into account problematic points in order to avoid them in the future Event development"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "website": "http://coderdojo.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
+      "organization": "'REAL/ VIRTUAL' Festival, (London, UK)",
+      "position": "Volunteer",
+      "website": "http://uglyduck.org.uk/portfolio_page/real-virtual-festival/",
+      "startDate": "2017-07-22",
+      "endDate": "2017-07-25",
+      "summary": "'REAL/ VIRTUAL' is the launch of a 5 month programme of events which explore the boundaries of reality and virtuality. This festival featured exhibitions, installations, performances and workshops",
       "highlights": [
-        "Awarded 'Teacher of the Month'"
+        "Providing excursions",
+        "Translation and interpreting"
+      ]
+    },
+    {
+      "organization": "National Centre of Contemporary Arts",
+      "position": "Volunteer",
+      "website": "http://ncca-kaliningrad.ru/eng/",
+      "startDate": "2012-05",
+      "endDate": "2012-07",
+      "summary": "Kaliningrad Branch of NCCA is the only institution in the Kaliningrad region working directly in the field of contemporary art. Its aim is to implement the state cultural policy on contemporary art through exhibition, collecting, information, education and research activities both in Russia and abroad.",
+      "highlights": [
+        "Collecting material and data for the excursions",
+        "Installation preparation",
+        "Running excursions",
+        "Translation and interpreting"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Oklahoma",
-      "area": "Information Technology",
-      "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "gpa": "4.0",
-      "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
-      ]
+      "institution": "University of Turku (Turku, Finland)",
+      "area": "Humanities: Baltic Sea Region Studies",
+      "studyType": "Master",
+      "startDate": "2013-09",
+      "endDate": "2017-12"
     },
     {
-      "institution": "University of Oklahoma",
-      "area": "Information Technology",
-      "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "gpa": "4.0",
-      "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
-      ]
+      "institution": "University of Tartu (Tartu, Estonia)",
+      "area": "Humanities: Baltic Sea Region Studies",
+      "studyType": "Exchange abroad",
+      "startDate": "2014-09",
+      "endDate": "2015-01"
+    },
+    {
+      "institution": "Immanuel Kant Baltic Federal University (Kaliningrad, Russia)",
+      "area": "Political Science",
+      "studyType": "Specialist",
+      "startDate": "2005-09",
+      "endDate": "2011-06"
+    },
+    {
+      "institution": "Immanuel Kant Baltic Federal University (Kaliningrad, Russia)",
+      "area": "Education",
+      "studyType": "Additional (to higher) education",
+      "startDate": "2005-09",
+      "endDate": "2011-06"
+    },
+    {
+      "institution": "University of Turku (Turku, Finland)",
+      "area": "Contemporary History",
+      "studyType": "Exchange abroad (Erasmus)",
+      "startDate": "2012-10",
+      "endDate": "2013-05"
     }
   ],
   "awards": [
     {
-      "title": "Digital Compression Pioneer Award",
-      "date": "2014-11-01",
-      "awarder": "Techcrunch",
-      "summary": "There is no spoon."
-    }
-  ],
-  "publications": [
+      "title": "Erasmus Mundus Triple I Programme",
+      "date": "2012-09-01",
+      "awarder": "European Commission, The Education, Audiovisual and Culture Executive Agency (EACEA)",
+      "summary": "Stipend covering academic year during Erasmus exchange"
+    },
     {
-      "name": "Video compression for 3d media",
-      "publisher": "Hooli",
-      "releaseDate": "2014-10-01",
-      "website": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+      "title": "Aurora - Towards Modern and Innovative Higher Education",
+      "date": "2014-05-08",
+      "awarder": "European Commission",
+      "summary": "Stipend covering 14 months of Masters degree"
     }
   ],
   "skills": [
     {
-      "name": "Web Development",
-      "level": "Master",
+      "name": "Office Software",
+      "level": "Advanced",
       "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript"
+        "MS Word",
+        "MS Powerpoint",
+        "MS Excel",
+        "MS Outlook",
+        "LibreOffice"
       ]
     },
     {
-      "name": "Compression",
-      "level": "Master",
+      "name": " Project implementation",
       "keywords": [
-        "Mpeg",
-        "MP4",
-        "GIF"
+        "Drawing up project plan",
+        "Providing presentations",
+        "Meeting deadlines",
+        "Searching for information and report writing",
+        "Dissemination of project results"
+      ]
+    },
+    {
+      "name": "Adaptability",
+      "keywords": [
+        "Ability to work in a multicultural environment with people from different age and social groups"
+      ]
+    },
+    {
+      "name": "Touch typing",
+      "keywords": [
+        "English",
+        "Russian"
       ]
     }
   ],
   "languages": [
     {
+      "language": "Russian",
+      "fluency": "Native"
+    },
+    {
       "language": "English",
-      "fluency": "Native speaker"
+      "fluency": "Fluent"
+    },
+    {
+      "language": "German",
+      "fluency": "Basic user"
+    },
+    {
+      "language": "French",
+      "fluency": "Basic user"
+    },
+    {
+      "language": "Finnish",
+      "fluency": "Basic user"
     }
   ],
   "interests": [
     {
-      "name": "Wildlife",
+      "name": "Argentine Tango",
       "keywords": [
-        "Ferrets",
-        "Unicorns"
+        "International Dancer",
+        "Teacher"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
     }
   ]
 }
