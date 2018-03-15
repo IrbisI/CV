@@ -28,7 +28,7 @@
   },
   "work": [
     {
-      "company": "Baltic Region Healthy Cities Association, (Turku, Finland)",
+      "company": "Baltic Region Healthy Cities Association (Turku, Finland)",
       "position": "Paid Trainee",
       "website": "http://www.marebalticum.org/brehca/",
       "startDate": "2016-04",
@@ -42,7 +42,7 @@
       ]
     },
     {
-      "company": "Immanuel Kant Baltic Federal University, (Kalinigrad, Russia)",
+      "company": "Immanuel Kant Baltic Federal University (Kalinigrad, Russia)",
       "position": "Scientific Researcher",
       "website": "http://eng.kantiana.ru/",
       "startDate": "2011-12",
@@ -56,7 +56,7 @@
       ]
     },
     {
-      "company": "NGO Centre Youth for Freedom of Speech, (Kalinigrad, Russia)",
+      "company": "NGO Centre Youth for Freedom of Speech (Kalinigrad, Russia)",
       "position": "Project Manager",
       "website": "http://www.yfs.ru",
       "startDate": "2009-09",
@@ -71,7 +71,7 @@
   ],
   "volunteer": [
     {
-      "organization": "'REAL/ VIRTUAL' Festival, (London, UK)",
+      "organization": "'REAL/ VIRTUAL' Festival (London, UK)",
       "position": "Volunteer",
       "website": "http://uglyduck.org.uk/portfolio_page/real-virtual-festival/",
       "startDate": "2017-07-22",
@@ -83,7 +83,7 @@
       ]
     },
     {
-      "organization": "National Centre of Contemporary Arts",
+      "organization": "National Centre of Contemporary Arts (Kaliningrad, Russia)",
       "position": "Volunteer",
       "website": "http://ncca-kaliningrad.ru/eng/",
       "startDate": "2012-05",
@@ -150,17 +150,6 @@
   ],
   "skills": [
     {
-      "name": "Office Software",
-      "level": "Advanced",
-      "keywords": [
-        "MS Word",
-        "MS Powerpoint",
-        "MS Excel",
-        "MS Outlook",
-        "LibreOffice"
-      ]
-    },
-    {
       "name": " Project implementation",
       "keywords": [
         "Drawing up project plan",
@@ -171,9 +160,21 @@
       ]
     },
     {
+      "name": "Research",
+      "keywords": [
+        "Literature review",
+        "Critical thinking",
+        "Data gathering",
+        "Conducting interviews",
+        "Statistics",
+        "Basic Machine Learning (Random Forests)"
+      ]
+    },
+    {
       "name": "Adaptability",
       "keywords": [
-        "Ability to work in a multicultural environment with people from different age and social groups"
+        "Ability to work in a multicultural environment with people from different ages and social groups",
+        "Lived in multiple countries, including Russia, Finland, Estonia, UK, UAE"
       ]
     },
     {
@@ -181,6 +182,25 @@
       "keywords": [
         "English",
         "Russian"
+      ]
+    },
+    {
+      "name": "Office Software",
+      "keywords": [
+        "MS Word",
+        "MS Powerpoint",
+        "MS Excel",
+        "MS Outlook",
+        "LibreOffice"
+      ]
+    },
+    {
+      "name": "IT",
+      "keywords": [
+        "Windows",
+        "Linux",
+        "GitHub",
+        "RStudio"
       ]
     }
   ],
