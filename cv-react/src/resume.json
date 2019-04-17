@@ -1,0 +1,287 @@
+{
+  "basics": {
+    "name": "Marina Andreianova",
+    "label": "Political Scientist / Master of Art in Baltic Sea Region Studies",
+    "picture": "https://media.licdn.com/dms/image/C5603AQHKgYl_aiEwPg/profile-displayphoto-shrink_800_800/0?e=1559174400&v=beta&t=LyuYeJU0EkhRITJSisiJhLMNhsJbCl-31abmPfAZxL8",
+    "email": "m.andreianova@gmail.com",
+    "phone": " +358 44 244 23 94",
+    "summary": "",
+    "location": {
+      "address": "Mannerheimintie 33B",
+      "postalCode": "00250",
+      "city": "Helsinki",
+      "countryCode": "FI"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "marinaandreianova",
+        "url": "https://www.linkedin.com/in/marinaandreianova"
+      },
+      {
+        "network": "GitHub",
+        "username": "IrbisI",
+        "url": "https://github.com/IrbisI"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "LocalBitcoins Oy (Helsinki, Finland)",
+      "position": "AML Investigator",
+      "website": "https://localbitcoins.com/about",
+      "startDate": "2019-03",
+      "summary": "My responsibility lies in the investigation and prevention of Money Laundering cases on the LocalBitcoins platform.",
+      "highlights": [
+          "Investigation of complex Money Laundering cases",
+          "Analysis of customer behaviour data for AML protection",
+          "Communicating with and moderating customers who may pose an AML risk"
+        ]
+    },
+    {
+      "company": "LocalBitcoins Oy (Helsinki, Finland)",
+      "position": "Customer Support Agent",
+      "website": "https://localbitcoins.com/about",
+      "startDate": "2018-05",
+      "endDate": "2019-03",
+      "summary": "My duties include assisting customers in the correct use of the LocalBitcoins' web platform and solving any issues that arise.",
+      "highlights": [
+        "Categorising and solving customer support tickets",
+        "Educating customers in the basics of Blockchain",
+        "Writing a daily report"
+      ]
+    },
+    {
+      "company": "Baltic Region Healthy Cities Association (Turku, Finland)",
+      "position": "Paid Trainee",
+      "website": "http://www.marebalticum.org/brehca/",
+      "startDate": "2016-04",
+      "endDate": "2016-06",
+      "summary": "My involvement included the development of project applications, participation in international study visits, execution of international health promoting projects.",
+      "highlights": [
+        "Preparation and execution of international projects and applications",
+        "Day-to-day communication with project beneficiaries",
+        "Translation of marketing materials"
+      ]
+    },
+    {
+      "company": "Immanuel Kant Baltic Federal University (Kalinigrad, Russia)",
+      "position": "Scientific Researcher",
+      "website": "http://eng.kantiana.ru/",
+      "startDate": "2011-12",
+      "endDate": "2013-05",
+      "summary": "I participated in several international scientific projects. In addition I was involved in educational methodical complex development and sociological surveys.",
+      "highlights": [
+        "Running field interviews for further analysis of collected data",
+        "Development and delivery of lectures to project actors",
+        "Document analysis (regional, federal and international media)",
+        "Active participation in study visits"
+      ]
+    },
+    {
+      "company": "NGO Centre Youth for Freedom of Speech (Kalinigrad, Russia)",
+      "position": "Project Manager",
+      "website": "http://www.yfs.ru",
+      "startDate": "2009-09",
+      "endDate": "2009-12",
+      "summary": "My role was as a project manager, contributing to team building and event development for the Charity Children's Fund 'Victoria' to support orphans.",
+      "highlights": [
+        "Preparatory workshop for potential volunteers: group activities, problem-solving tasks, and beneficiary-oriented behaviour",
+        "Monitoring volunteers’ activities",
+        "Invitation of guest lectures, dance teachers, photographers to hold various workshops for orphans"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "'REAL/ VIRTUAL' Festival (London, UK)",
+      "position": "Volunteer",
+      "website": "http://uglyduck.org.uk/portfolio_page/real-virtual-festival/",
+      "startDate": "2017-07-22",
+      "endDate": "2017-07-25",
+      "summary": "'REAL/ VIRTUAL' is the launch of a 5 month programme of events which explore the boundaries of reality and virtuality. This festival featured exhibitions, installations, performances and workshops.",
+      "highlights": [
+        "Providing excursions",
+        "Translation and interpreting"
+      ]
+    },
+    {
+      "organization": "National Centre of Contemporary Arts (Kaliningrad, Russia)",
+      "position": "Volunteer",
+      "website": "http://ncca-kaliningrad.ru/eng/",
+      "startDate": "2012-05",
+      "endDate": "2012-07",
+      "summary": "Volunteered to support the state cultural policy on contemporary art through exhibition, collecting, information, education and research activities.",
+      "highlights": [
+        "Collecting material and data for the excursions",
+        "Installation preparation",
+        "Running excursions",
+        "Translation and interpreting"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Turku (Turku, Finland)",
+      "area": "Humanities: Baltic Sea Region Studies",
+      "studyType": "Master",
+      "startDate": "2013-09",
+      "endDate": "2017-12",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Tartu (Tartu, Estonia)",
+      "area": "Humanities: Baltic Sea Region Studies",
+      "studyType": "Exchange abroad",
+      "startDate": "2014-09",
+      "endDate": "2015-01",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Immanuel Kant Baltic Federal University (Kaliningrad, Russia)",
+      "area": "Political Science",
+      "studyType": "Specialist",
+      "startDate": "2005-09",
+      "endDate": "2011-06",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Immanuel Kant Baltic Federal University (Kaliningrad, Russia)",
+      "area": "Education",
+      "studyType": "Additional (to higher) education",
+      "startDate": "2005-09",
+      "endDate": "2011-06",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Turku (Turku, Finland)",
+      "area": "Contemporary History",
+      "studyType": "Exchange abroad (Erasmus)",
+      "startDate": "2012-10",
+      "endDate": "2013-05",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Erasmus Mundus Triple I Programme",
+      "date": "2012-09-01",
+      "awarder": "European Commission, The Education, Audiovisual and Culture Executive Agency (EACEA)",
+      "summary": "Stipend covering academic year during Erasmus exchange"
+    },
+    {
+      "title": "Aurora - Towards Modern and Innovative Higher Education",
+      "date": "2014-05-08",
+      "awarder": "European Commission",
+      "summary": "Stipend covering 14 months of Masters degree"
+    }
+  ],
+  "skills": [
+    {
+      "name": " Project implementation",
+      "level": "Advanced",
+      "keywords": [
+        "Drawing up project plan",
+        "providing presentations",
+        "meeting deadlines",
+        "searching for information and report writing",
+        "and dissemination of project results"
+      ]
+    },
+    {
+      "name": "Interpersonal",
+      "level": "Advanced",
+      "keywords": [
+        "Communication",
+        "customer orientedness",
+        "conflict resolution",
+        "high ethical standards"
+      ]
+    },
+    {
+      "name": "Research",
+      "level": "Advanced",
+      "keywords": [
+        "Literature review",
+        "critical thinking",
+        "data gathering",
+        "conducting interviews",
+        "statistics",
+        "basic Machine Learning (Random Forests)"
+      ]
+    },
+    {
+      "name": "Adaptability",
+      "level": "Intermediate",
+      "keywords": [
+        "Worked in multicultural environments with people of different ages and social groups",
+        "and lived in multiple countries, including Russia, Finland, Estonia, UK, UAE"
+      ]
+    },
+    {
+      "name": "Touch typing",
+      "level": "Intermediate",
+      "keywords": [
+        "English",
+        "Russian"
+      ]
+    },
+    {
+      "name": "Office Software",
+      "level": "Intermediate",
+      "keywords": [
+        "MS Word",
+        "MS Powerpoint",
+        "MS Excel",
+        "MS Outlook",
+        "LibreOffice"
+      ]
+    },
+    {
+      "name": "IT",
+      "level": "Beginner",
+      "keywords": [
+        "Windows",
+        "Linux",
+        "GitHub",
+        "RStudio"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Russian",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "German",
+      "fluency": "Basic user"
+    },
+    {
+      "language": "French",
+      "fluency": "Basic user"
+    },
+    {
+      "language": "Finnish",
+      "fluency": "Basic user"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Argentine Tango",
+      "keywords": [
+        "International Dancer",
+        "Teacher"
+      ]
+    }
+  ]
+}
