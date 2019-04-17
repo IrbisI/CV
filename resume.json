@@ -2,7 +2,7 @@
   "basics": {
     "name": "Marina Andreianova",
     "label": "Political Scientist / Master of Art in Baltic Sea Region Studies",
-    "picture": "https://media.licdn.com/dms/image/C5603AQHKgYl_aiEwPg/profile-displayphoto-shrink_800_800/0?e=1548288000&v=beta&t=LD0f6VFZQmfiOx-NnkcQwE4wIFXNXxnQwcW_73p_pq4",
+    "picture": "https://media.licdn.com/dms/image/C5603AQHKgYl_aiEwPg/profile-displayphoto-shrink_800_800/0?e=1559174400&v=beta&t=LyuYeJU0EkhRITJSisiJhLMNhsJbCl-31abmPfAZxL8",
     "email": "m.andreianova@gmail.com",
     "phone": " +358 44 244 23 94",
     "summary": "",
@@ -28,13 +28,26 @@
   "work": [
     {
       "company": "LocalBitcoins Oy (Helsinki, Finland)",
+      "position": "AML Investigator",
+      "website": "https://localbitcoins.com/about",
+      "startDate": "2019-03",
+      "summary": "My responsibility lies in the investigation and prevention of Money Laundering cases on the LocalBitcoins platform.",
+      "highlights": [
+          "Investigation of complex Money Laundering cases",
+          "Analysis of customer behaviour data for AML protection",
+          "Communicating with and moderating customers who may pose an AML risk"
+        ]
+    },
+    {
+      "company": "LocalBitcoins Oy (Helsinki, Finland)",
       "position": "Customer Support Agent",
       "website": "https://localbitcoins.com/about",
       "startDate": "2018-05",
+      "endDate": "2019-03",
       "summary": "My duties include assisting customers in the correct use of the LocalBitcoins' web platform and solving any issues that arise.",
       "highlights": [
         "Categorising and solving customer support tickets",
-        "Educating customers in the basics of Blockchain", 
+        "Educating customers in the basics of Blockchain",
         "Writing a daily report"
       ]
     },
@@ -113,35 +126,45 @@
       "area": "Humanities: Baltic Sea Region Studies",
       "studyType": "Master",
       "startDate": "2013-09",
-      "endDate": "2017-12"
+      "endDate": "2017-12",
+      "gpa": "",
+      "courses": []
     },
     {
       "institution": "University of Tartu (Tartu, Estonia)",
       "area": "Humanities: Baltic Sea Region Studies",
       "studyType": "Exchange abroad",
       "startDate": "2014-09",
-      "endDate": "2015-01"
+      "endDate": "2015-01",
+      "gpa": "",
+      "courses": []
     },
     {
       "institution": "Immanuel Kant Baltic Federal University (Kaliningrad, Russia)",
       "area": "Political Science",
       "studyType": "Specialist",
       "startDate": "2005-09",
-      "endDate": "2011-06"
+      "endDate": "2011-06",
+      "gpa": "",
+      "courses": []
     },
     {
       "institution": "Immanuel Kant Baltic Federal University (Kaliningrad, Russia)",
       "area": "Education",
       "studyType": "Additional (to higher) education",
       "startDate": "2005-09",
-      "endDate": "2011-06"
+      "endDate": "2011-06",
+      "gpa": "",
+      "courses": []
     },
     {
       "institution": "University of Turku (Turku, Finland)",
       "area": "Contemporary History",
       "studyType": "Exchange abroad (Erasmus)",
       "startDate": "2012-10",
-      "endDate": "2013-05"
+      "endDate": "2013-05",
+      "gpa": "",
+      "courses": []
     }
   ],
   "awards": [
@@ -161,6 +184,7 @@
   "skills": [
     {
       "name": " Project implementation",
+      "level": "Advanced",
       "keywords": [
         "Drawing up project plan",
         "providing presentations",
@@ -169,8 +193,9 @@
         "and dissemination of project results"
       ]
     },
-     {
+    {
       "name": "Interpersonal",
+      "level": "Advanced",
       "keywords": [
         "Communication",
         "customer orientedness",
@@ -180,6 +205,7 @@
     },
     {
       "name": "Research",
+      "level": "Advanced",
       "keywords": [
         "Literature review",
         "critical thinking",
@@ -191,6 +217,7 @@
     },
     {
       "name": "Adaptability",
+      "level": "Intermediate",
       "keywords": [
         "Worked in multicultural environments with people of different ages and social groups",
         "and lived in multiple countries, including Russia, Finland, Estonia, UK, UAE"
@@ -198,6 +225,7 @@
     },
     {
       "name": "Touch typing",
+      "level": "Intermediate",
       "keywords": [
         "English",
         "Russian"
@@ -205,6 +233,7 @@
     },
     {
       "name": "Office Software",
+      "level": "Intermediate",
       "keywords": [
         "MS Word",
         "MS Powerpoint",
@@ -215,6 +244,7 @@
     },
     {
       "name": "IT",
+      "level": "Beginner",
       "keywords": [
         "Windows",
         "Linux",
