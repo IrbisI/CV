@@ -7,7 +7,7 @@
     "phone": " +358 44 244 23 94",
     "summary": "",
     "location": {
-      "address": "Mannerheimintie 33B",
+      "address": "Mannerheimintie 33",
       "postalCode": "00250",
       "city": "Helsinki",
       "countryCode": "FI"
@@ -31,11 +31,11 @@
       "position": "AML Investigator",
       "website": "https://localbitcoins.com/about",
       "startDate": "2019-03",
-      "summary": "My responsibility lies in the investigation and prevention of Money Laundering cases on the LocalBitcoins platform.",
+      "summary": "Investigation and prevention of Fraud, Money Laundering (ML) and Terrorist Financing (TF) cases on the LocalBitcoins platform.",
       "highlights": [
           "Investigation of complex Money Laundering cases",
           "Analysis of customer behaviour data for AML protection",
-          "Communicating with and moderating customers who may pose an AML risk"
+          "Contributing to the creation of tools and processes to prevent Fraud, ML and TF"
         ]
     },
     {
@@ -44,7 +44,7 @@
       "website": "https://localbitcoins.com/about",
       "startDate": "2018-05",
       "endDate": "2019-03",
-      "summary": "My duties include assisting customers in the correct use of the LocalBitcoins' web platform and solving any issues that arise.",
+      "summary": "Assisting customers in the correct use of the LocalBitcoins' web platform and solving any issues that arise.",
       "highlights": [
         "Categorising and solving customer support tickets",
         "Educating customers in the basics of Blockchain",
@@ -57,7 +57,7 @@
       "website": "http://www.marebalticum.org/brehca/",
       "startDate": "2016-04",
       "endDate": "2016-06",
-      "summary": "My involvement included the development of project applications, participation in international study visits, execution of international health promoting projects.",
+      "summary": "Development of project applications, participation in international study visits, execution of international health promoting projects.",
       "highlights": [
         "Preparation and execution of international projects and applications",
         "Day-to-day communication with project beneficiaries",
@@ -70,12 +70,11 @@
       "website": "http://eng.kantiana.ru/",
       "startDate": "2011-12",
       "endDate": "2013-05",
-      "summary": "I participated in several international scientific projects. In addition I was involved in educational methodical complex development and sociological surveys.",
+      "summary": "Participated in several international scientific projects. Involved in educational methodical complex development and sociological surveys.",
       "highlights": [
         "Running field interviews for further analysis of collected data",
         "Development and delivery of lectures to project actors",
-        "Document analysis (regional, federal and international media)",
-        "Active participation in study visits"
+        "Document analysis (regional, federal and international media)"
       ]
     },
     {
@@ -84,7 +83,7 @@
       "website": "http://www.yfs.ru",
       "startDate": "2009-09",
       "endDate": "2009-12",
-      "summary": "My role was as a project manager, contributing to team building and event development for the Charity Children's Fund 'Victoria' to support orphans.",
+      "summary": "Project manager, contributing to team building and event development for the Charity Children's Fund 'Victoria' to support orphans.",
       "highlights": [
         "Preparatory workshop for potential volunteers: group activities, problem-solving tasks, and beneficiary-oriented behaviour",
         "Monitoring volunteers’ activities",
@@ -99,7 +98,7 @@
       "website": "http://uglyduck.org.uk/portfolio_page/real-virtual-festival/",
       "startDate": "2017-07-22",
       "endDate": "2017-07-25",
-      "summary": "'REAL/ VIRTUAL' is the launch of a 5 month programme of events which explore the boundaries of reality and virtuality. This festival featured exhibitions, installations, performances and workshops.",
+      "summary": "'REAL/ VIRTUAL' launched a 5 month programme of events exploring the boundaries of reality and virtuality. The festival featured exhibitions, installations, performances and workshops.",
       "highlights": [
         "Providing excursions",
         "Translation and interpreting"
@@ -111,11 +110,10 @@
       "website": "http://ncca-kaliningrad.ru/eng/",
       "startDate": "2012-05",
       "endDate": "2012-07",
-      "summary": "Volunteered to support the state cultural policy on contemporary art through exhibition, collecting, information, education and research activities.",
+      "summary": "Supported the state cultural policy on contemporary art through exhibition, collecting, information, education and research activities.",
       "highlights": [
-        "Collecting material and data for the excursions",
+        "Collecting material and data for the excursions, and running them",
         "Installation preparation",
-        "Running excursions",
         "Translation and interpreting"
       ]
     }
@@ -183,17 +181,6 @@
   ],
   "skills": [
     {
-      "name": " Project implementation",
-      "level": "Advanced",
-      "keywords": [
-        "Drawing up project plan",
-        "providing presentations",
-        "meeting deadlines",
-        "searching for information and report writing",
-        "and dissemination of project results"
-      ]
-    },
-    {
       "name": "Interpersonal",
       "level": "Advanced",
       "keywords": [
@@ -213,6 +200,17 @@
         "conducting interviews",
         "statistics",
         "basic Machine Learning (Random Forests)"
+      ]
+    },
+    {
+      "name": " Project implementation",
+      "level": "Intermediate",
+      "keywords": [
+        "Drawing up project plan",
+        "providing presentations",
+        "meeting deadlines",
+        "searching for information and report writing",
+        "and dissemination of project results"
       ]
     },
     {
