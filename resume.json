@@ -7,8 +7,8 @@
     "phone": " +358 44 244 23 94",
     "summary": "",
     "location": {
-      "address": "Mannerheimintie 33",
-      "postalCode": "00250",
+      "address": "Mechelininkatu 20 A",
+      "postalCode": "00100",
       "city": "Helsinki",
       "countryCode": "FI"
     },
@@ -35,7 +35,8 @@
       "highlights": [
           "Investigation of complex Money Laundering cases",
           "Contributing to the creation of tools and processes to prevent Fraud, ML and TF",
-          "Analysis of customer behaviour data for AML protection"
+          "Analysis of customer behaviour data for AML protection",
+          "Suspicious Activity Reporting (SAR)"
         ]
     },
     {
